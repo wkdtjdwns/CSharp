@@ -12,7 +12,7 @@
 
 그림과 같이 네 명의 사람이 사과가 떨어지기를 기다리고 있다. 모든 사람은 *x*축 위의 한 점에 가만히 서 있으며, 여러 사람이 같은 점에 서 있는 경우는 없다. *i*번 (1 ≤ *i* ≤ 4) 사람은 점 (*pi*, 0) 위에 있다고 하자. 거대한 좌표평면에 비해 사람은 작은 존재이므로, 편의상 각 사람의 크기는 무시하자.
 
-!https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13118/figure_1.png
+![image](https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13118/figure_1.png)
 
 *x*축 위에서 기다리는 사람들.
 
