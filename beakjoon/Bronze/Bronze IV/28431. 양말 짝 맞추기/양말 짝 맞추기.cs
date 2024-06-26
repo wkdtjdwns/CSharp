@@ -1,20 +1,29 @@
-Dictionary<int, int> d = new Dictionary<int, int>();
+List<int> x = new List<int>();
 for (int i = 0; i < 5; i++)
 {
-    int x = int.Parse(Console.ReadLine());
-    if (d.ContainsKey(x))
-    {
-        d[x]++;
-    }
-
-    else { d[x] = 1; }
+    x.Add(int.Parse(Console.ReadLine()));
 }
 
-foreach (int key in d.Keys)
+Dictionary<int, int> d = new Dictionary<int, int>();
+
+foreach (int sock in x)
 {
-    if (key % 2 == 1)
+    if (d.ContainsKey(sock))
     {
-        Console.WriteLine(key);
+        d[sock]++;
+    }
+
+    else
+    {
+        d[sock] = 1;
+    }
+}
+
+foreach (var pair in d)
+{
+    if (pair.Value % 2 != 0)
+    {
+        Console.WriteLine(pair.Key);
         break;
     }
 }
