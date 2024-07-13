@@ -18,4 +18,4 @@ if (xy1[1] == xy2[1]) { y = xy3[1]; }
 else if (xy1[1] == xy3[1]) { y = xy2[1]; }
 else { y = xy1[1]; }
 
-Console.WriteLine(x + " " + y);
+Console.WriteLine(x + " " + y); 
