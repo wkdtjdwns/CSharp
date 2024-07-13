@@ -8,4 +8,4 @@ int n2 = abc[2] - abc[1];
 
 if (n == n2) { Console.WriteLine(abc[2] + n); }
 else if (n < n2) { Console.WriteLine(abc[1] + n); }
-else { Console.WriteLine(abc[0] + n2); }
+else { Console.WriteLine(abc[0] + n2); } 
