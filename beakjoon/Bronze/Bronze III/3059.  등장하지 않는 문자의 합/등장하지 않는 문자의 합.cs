@@ -1,7 +1,7 @@
 int t = int.Parse(Console.ReadLine());
 for (int i = 0; i < t; i++)
 {
-    String str = Console.ReadLine();
+    string str = Console.ReadLine();
     bool[] alpha = new bool[26];
     for (int j = 0; j < str.Length; j++)
     {
