@@ -1,4 +1,4 @@
-# [주식 투자](https://www.acmicpc.net/problem/13416)
+# [주식 투자](https://www.acmicpc.net/problem/13416) 
 
 | 시간 제한 | 메모리 제한 | 제출 | 정답 | 맞힌 사람 | 정답 비율 |
 | --- | --- | --- | --- | --- | --- |
