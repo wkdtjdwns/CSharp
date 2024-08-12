@@ -31,5 +31,5 @@ Console.WriteLine(hiarc.Min());
 
 enum Character : int
 {
-    H, I, A, R, C, _,
+    H, I, A, R, C
 }
