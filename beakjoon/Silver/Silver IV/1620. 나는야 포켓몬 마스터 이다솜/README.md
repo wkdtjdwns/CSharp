@@ -1,6 +1,4 @@
-![image](https://github.com/user-attachments/assets/9a332eb1-a43b-4d49-b8fe-6c8e70217a31)[](https://www.acmicpc.net/problem/1620)
-
-# 나는야 포켓몬 마스터 이다솜
+# [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
 
 | 시간 제한 | 메모리 제한 | 제출 | 정답 | 맞힌 사람 | 정답 비율 |
 | --- | --- | --- | --- | --- | --- |
