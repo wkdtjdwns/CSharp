@@ -7,7 +7,6 @@ for (int i = 0; i < n; i++)
     strs.Add(Console.ReadLine());
 }
 
-// 문자열 비교
 for (int i = 0; i < n - 1; i++)
 {
     string a = strs[i];
