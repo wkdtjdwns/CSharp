@@ -1,6 +1,5 @@
 int n = int.Parse(Console.ReadLine());
 int cnt = 0;
-int temp = 0;
 while (true)
 {
     if (n % 5 == 0)
